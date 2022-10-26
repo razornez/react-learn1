@@ -40,3 +40,8 @@ root.render(
 //state: data yang berada dalam komponen
 //dan dikelola oleh komponent itu sendiri
 //gunakan useState hook utk membuat state
+
+//side effect/efek adalah akses dengan dunia luar
+//misal rest api, websocket, localStorage, 
+//jalankan timer, dom node, dll
+//menjalankan side effect -> useEffect hook
